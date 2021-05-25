@@ -1,0 +1,75 @@
+#### Retrieval results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Guangzhou and Daqing in the same province?",
+        "topk_titles": [
+            [
+                "G45 Daqing\u2013Guangzhou Expressway_0",
+                "Guangzhou_0",
+                "Daqing_0"
+            ],
+            [
+                "G45 Daqing\u2013Guangzhou Expressway_0",
+                "Daqing_0",
+                "Guangzhou_0"
+            ],
+            [
+                "G45 Daqing\u2013Guangzhou Expressway_0",
+                "Daqing_0"
+            ],
+            [
+                "G45 Daqing\u2013Guangzhou Expressway_0",
+                "Guangzhou_0"
+            ]
+        ],
+        "topk_probs": [],
+        "context": {
+            "G45 Daqing\u2013Guangzhou Expressway_0": "The Daqing\u2013Guangzhou Expressway (), commonly referred to as the \"Daguang Expressway\" () is an expressway that connects the cities of Daqing, Heilongjiang, and Guangzhou, Guangdong. When fully complete, it will be 3550 km in length.",
+            "Guangzhou_0": "Guangzhou, traditionally romanised as Canton, is the capital and most populous city of the province of Guangdong in southern China. Located on the Pearl River about 120 km north-northwest of Hong Kong and 145 km north of Macau, Guangzhou has a history of over 2200 years and was a major terminus of the maritime Silk Road and continues to serve as a major port and transportation hub today.",
+            "Daqing_0": "Daqing (; formerly romanized as Taching) is a prefecture-level city in the west of Heilongjiang province, People's Republic of China. The name literally means \"Great Celebration\". Daqing is known as the Oil Capital of China and has experienced a phenomenal boom since oil was discovered at the Daqing Oil Field in 1959."
+        },
+        "context_from_tfidf": [
+            "Daqing_0",
+            "G45 Daqing\u2013Guangzhou Expressway_0"
+        ],
+        "context_from_hyperlink": [
+            "Guangzhou_0"
+        ]
+    }
+]
+
+#### Reader results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Guangzhou and Daqing in the same province?",
+        "answer": "no",
+        "context": [
+            "G45 Daqing\u2013Guangzhou Expressway_0",
+            "Guangzhou_0",
+            "Daqing_0"
+        ]
+    }
+]
+
+#### Supporting facts ####
+[
+    {
+        "q_id": "DEMO_0",
+        "supporting facts": {
+            "Daqing_0": [
+                [
+                    0,
+                    "Daqing (; formerly romanized as Taching) is a prefecture-level city in the west of Heilongjiang province, People's Republic of China."
+                ]
+            ],
+            "Guangzhou_0": [
+                [
+                    0,
+                    "Guangzhou, traditionally romanised as Canton, is the capital and most populous city of the province of Guangdong in southern China."
+                ]
+            ]
+        }
+    }
+]

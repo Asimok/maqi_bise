@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="maqi@202.199.6.77:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="maqi@202.199.6.77:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data0/maqi/maqi_bs" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="maqi@219.216.64.206:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data0/maqi/maqi_bs" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

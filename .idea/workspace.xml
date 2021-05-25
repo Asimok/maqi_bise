@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="140bd985-0f9e-4a6f-b821-c478a055b5ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="883db1e6-733a-44db-9b26-875235425743" />
+  <component name="ProjectId" id="1q1UFJUkbUFuiUsEtYS8KvOxU6j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reader_module/tools" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eval" />
+      <recent name="$PROJECT_DIR$/data/hotpot/eval" />
+      <recent name="$PROJECT_DIR$/data/hotpot/sequential_sentence_selector_dataset/complete" />
+      <recent name="$PROJECT_DIR$/data/hotpot/graph_retriever_dataset" />
+      <recent name="$PROJECT_DIR$/graph_retriever" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reader_module/tools" />
+      <recent name="$PROJECT_DIR$/data/hotpot" />
+      <recent name="$PROJECT_DIR$/数据集分析" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sequential_sentence_selector/tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dis_dataset">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dis_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reader_module/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reader_module/tools/dis_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split_train_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据集分析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据集分析/split_train_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eval" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval/tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unicode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maqi_bs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unicode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dis_dataset" />
+        <item itemvalue="Python.tool" />
+        <item itemvalue="Python.tool" />
+        <item itemvalue="Python.tool" />
+        <item itemvalue="Python.tool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="140bd985-0f9e-4a6f-b821-c478a055b5ba" name="Default Changelist" comment="" />
+      <created>1616246484368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616246484368</updated>
+      <workItem from="1616246485710" duration="6134000" />
+      <workItem from="1616289716392" duration="25559000" />
+      <workItem from="1616401526391" duration="359000" />
+      <workItem from="1616402126137" duration="4565000" />
+      <workItem from="1616505449800" duration="3957000" />
+      <workItem from="1616748868862" duration="23138000" />
+      <workItem from="1616980479984" duration="2124000" />
+      <workItem from="1616982623420" duration="5560000" />
+      <workItem from="1616995989249" duration="4040000" />
+      <workItem from="1617152816287" duration="11490000" />
+      <workItem from="1617200981275" duration="341000" />
+      <workItem from="1617246863844" duration="615000" />
+      <workItem from="1617329208313" duration="11607000" />
+      <workItem from="1617371094813" duration="986000" />
+      <workItem from="1617413473796" duration="2148000" />
+      <workItem from="1617503364941" duration="405000" />
+      <workItem from="1617693981399" duration="9000" />
+      <workItem from="1617694775051" duration="716000" />
+      <workItem from="1618033634487" duration="81000" />
+      <workItem from="1618107693822" duration="299000" />
+      <workItem from="1618114558806" duration="31000" />
+      <workItem from="1618576898353" duration="2311000" />
+      <workItem from="1618623975383" duration="3202000" />
+      <workItem from="1618711394988" duration="438000" />
+      <workItem from="1618737496348" duration="2000" />
+      <workItem from="1618812935942" duration="2766000" />
+      <workItem from="1619483741592" duration="569000" />
+      <workItem from="1619484442064" duration="437000" />
+      <workItem from="1619670748061" duration="1256000" />
+      <workItem from="1619848032800" duration="472000" />
+      <workItem from="1619868778826" duration="1050000" />
+      <workItem from="1619922532015" duration="1715000" />
+      <workItem from="1620032177501" duration="2189000" />
+      <workItem from="1620034795009" duration="1133000" />
+      <workItem from="1620091603046" duration="8988000" />
+      <workItem from="1620174270668" duration="673000" />
+      <workItem from="1620174973786" duration="3505000" />
+      <workItem from="1620196940199" duration="1238000" />
+      <workItem from="1620307396979" duration="1375000" />
+      <workItem from="1620367188273" duration="1183000" />
+      <workItem from="1620462703831" duration="181000" />
+      <workItem from="1620607785017" duration="301000" />
+      <workItem from="1620694990507" duration="2434000" />
+      <workItem from="1620867557038" duration="74000" />
+      <workItem from="1620872116834" duration="707000" />
+      <workItem from="1621041978696" duration="366000" />
+      <workItem from="1621319892704" duration="429000" />
+      <workItem from="1621915543131" duration="4563000" />
+    </task>
+    <task id="LOCAL-00001" summary="排除文件夹">
+      <created>1621916743675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621916743675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="排除文件夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="排除文件夹" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="224" key="#Deployment" timestamp="1616996181852">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="327" y="224" key="#Deployment/0.0.1792.1120@0.0.1792.1120" timestamp="1616996181852" />
+    <state x="780" y="-1139" key="#JSON_Schema_Mappings" timestamp="1616289977484">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="780" y="-1139" key="#JSON_Schema_Mappings/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616289977484" />
+    <state x="542" y="347" key="#Notifications" timestamp="1616996002848">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="542" y="347" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1616996002848" />
+    <state x="740" y="-1068" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616402431948">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="740" y="-1068" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616402431948" />
+    <state x="572" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620367824718">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="572" y="349" key="#com.intellij.fileTypes.FileTypeChooser/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620367824718" />
+    <state x="572" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1616511680441" />
+    <state x="734" y="-1130" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1616289939933">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="734" y="-1130" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616289939933" />
+    <state x="581" y="289" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1617371480511">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="581" y="289" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1617371480511" />
+    <state x="568" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618576926769">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="568" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1618576926769" />
+    <state x="568" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.994@0.25.1792.994" timestamp="1616248628455" />
+    <state x="377" y="54" key="CommitChangelistDialog2" timestamp="1621916743481">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="377" y="54" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1621916743481" />
+    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog" timestamp="1621937683603">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621937683603" />
+    <state x="94" y="200" key="Github.UntrackedFilesDialog" timestamp="1621915946564">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="94" y="200" key="Github.UntrackedFilesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621915946564" />
+    <state x="211" y="191" width="1427" height="903" key="SettingsEditor" timestamp="1620175187008">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="211" y="191" width="1474" height="903" key="SettingsEditor/-768.-1415.2560.1415/0.0.1792.1120@0.0.1792.1120" timestamp="1620097284274" />
+    <state x="211" y="111" key="SettingsEditor/-768.-1415.2560.1415/0.25.1792.989@0.25.1792.989" timestamp="1618813596437" />
+    <state x="-467" y="-1194" key="SettingsEditor/-768.-1440.2560.1440/0.0.1792.1120@-768.-1440.2560.1440" timestamp="1617364416835" />
+    <state x="211" y="191" width="1427" height="903" key="SettingsEditor/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620175187008" />
+    <state x="-467" y="-1194" key="SettingsEditor/-768.-1440.2560.1440/0.25.1792.989@-768.-1440.2560.1440" timestamp="1617329397045" />
+    <state x="664" y="-1172" key="SettingsEditor/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616402452387" />
+    <state x="211" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1617170526925" />
+    <state x="396" y="234" key="Vcs.Push.Dialog.v2" timestamp="1621922116853">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="396" y="234" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1621922116853" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1618624714725">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1280" height="720" key="XDebugger.FullValuePopup/-768.-1440.2560.1440/0.0.1792.1120@-768.-1440.2560.1440" timestamp="1616815630966" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1618624714725" />
+    <state width="1280" height="720" key="XDebugger.FullValuePopup/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616300465660" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1616509059016" />
+    <state width="896" height="497" key="XDebugger.FullValuePopup/0.25.1792.994@0.25.1792.994" timestamp="1616250418667" />
+    <state x="663" y="472" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1620175091724">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="663" y="472" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620175091724" />
+    <state x="592" y="0" width="752" height="1120" key="find.popup" timestamp="1620697542517">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="457" y="-1440" width="1073" height="1440" key="find.popup/-768.-1440.2560.1440/0.0.1792.1120@-768.-1440.2560.1440" timestamp="1616815922537" />
+    <state x="592" y="0" width="752" height="1120" key="find.popup/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620697542517" />
+    <state x="743" y="-1440" width="1073" height="1440" key="find.popup/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616402829559" />
+    <state x="743" y="-1440" width="1073" height="1440" key="find.popup/0.-1440.2560.1440/0.25.1792.1095@0.-1440.2560.1440" timestamp="1616390673451" />
+    <state x="743" y="-1440" width="1073" height="1440" key="find.popup/0.-1440.2560.1440/0.25.1792.994@0.-1440.2560.1440" timestamp="1616391292885" />
+    <state x="858" y="0" width="752" height="1120" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1616998436029" />
+    <state x="520" y="25" width="751" height="994" key="find.popup/0.25.1792.994@0.25.1792.994" timestamp="1616252591459" />
+    <state x="532" y="332" width="665" height="655" key="ftp.server.browser" timestamp="1620175154015">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="532" y="332" width="665" height="655" key="ftp.server.browser/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620175154015" />
+    <state x="964" y="332" width="504" height="655" key="ftp.server.browser/0.0.1792.1120@0.0.1792.1120" timestamp="1616999836976" />
+    <state x="841" y="-1053" width="875" height="663" key="recent.locations.popup" timestamp="1616391276993">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="841" y="-1053" width="875" height="663" key="recent.locations.popup/0.-1440.2560.1440/0.25.1792.994@0.-1440.2560.1440" timestamp="1616391276993" />
+    <state x="93" y="-1116" width="838" height="1032" key="search.everywhere.popup" timestamp="1617417318574">
+      <screen x="-768" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="93" y="-1116" width="838" height="1032" key="search.everywhere.popup/-768.-1440.2560.1440/0.0.1792.1120@-768.-1440.2560.1440" timestamp="1617417318574" />
+  </component>
+</project>

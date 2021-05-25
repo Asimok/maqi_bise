@@ -1,0 +1,12 @@
+python run_graph_retriever.py \
+--task hotpot_distractor \
+--bert_model bert-base-uncased --do_lower_case \
+--dev_file_path ../data/hotpot/graph_retriever_dataset/simple_train_dataset.json \
+--pred_file predictions/pred.json \
+--output_dir outputs/ \
+--model_suffix 2 \
+--max_para_num 10 \
+--beam 8 \
+--pruning_by_links \
+--eval_chunk 500 \
+--split_chunk 300

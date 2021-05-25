@@ -1,0 +1,73 @@
+#### Retrieval results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Where is Daqing City in",
+        "topk_titles": [
+            [
+                "Daqing Sartu Airport_0",
+                "Daqing_0"
+            ],
+            [
+                "Daqing West Railway Station_0",
+                "Daqing_0"
+            ],
+            [
+                "Daqing East Railway Station_0",
+                "Daqing_0"
+            ],
+            [
+                "Daqing_0",
+                "Daqing Sartu Airport_0"
+            ]
+        ],
+        "topk_probs": [],
+        "context": {
+            "Daqing Sartu Airport_0": "Daqing Sartu Airport (IATA: DQA,\u00a0ICAO: ZYDQ) is an airport (class 4C) serving the city of Daqing in Heilongjiang Province, China. Construction started in 2007 with a total investment of 500 million yuan, and the airport was opened on 1 September 2009.",
+            "Daqing_0": "Daqing (; formerly romanized as Taching) is a prefecture-level city in the west of Heilongjiang province, People's Republic of China. The name literally means \"Great Celebration\". Daqing is known as the Oil Capital of China and has experienced a phenomenal boom since oil was discovered at the Daqing Oil Field in 1959.",
+            "Daqing West Railway Station_0": "Daqing West Railway Station is a railway station of the Harbin\u2013Qiqihar Intercity Railway. It is located at the city of Daqing, in the Heilongjiang province of China.",
+            "Daqing East Railway Station_0": "Daqing East Railway Station is a railway station of the Harbin\u2013Qiqihar Intercity Railway and Harbin\u2013Manzhouli Railway. It is located at the city of Daqing, in the Heilongjiang province of China."
+        },
+        "context_from_tfidf": [
+            "Daqing East Railway Station_0",
+            "Daqing Sartu Airport_0",
+            "Daqing West Railway Station_0",
+            "Daqing_0"
+        ],
+        "context_from_hyperlink": []
+    }
+]
+
+#### Reader results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Where is Daqing City in",
+        "answer": "Heilongjiang province of China",
+        "context": [
+            "Daqing West Railway Station_0",
+            "Daqing_0"
+        ]
+    }
+]
+
+#### Supporting facts ####
+[
+    {
+        "q_id": "DEMO_0",
+        "supporting facts": {
+            "Daqing_0": [
+                [
+                    0,
+                    "Daqing (; formerly romanized as Taching) is a prefecture-level city in the west of Heilongjiang province, People's Republic of China."
+                ]
+            ],
+            "Daqing West Railway Station_0": [
+                [
+                    1,
+                    " It is located at the city of Daqing, in the Heilongjiang province of China."
+                ]
+            ]
+        }
+    }
+]

@@ -1,0 +1,73 @@
+#### Retrieval results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Who plays basketball better, Yao Ming or Messi",
+        "topk_titles": [
+            [
+                "Yao Ming_0",
+                "Lionel Messi_0"
+            ],
+            [
+                "Lionel Messi_0",
+                "Yao Ming_0"
+            ],
+            [
+                "Sun Zhe_0",
+                "Yao Ming_0",
+                "Lionel Messi_0"
+            ],
+            [
+                "Sun Zhe_0",
+                "Lionel Messi_0",
+                "Yao Ming_0"
+            ]
+        ],
+        "topk_probs": [],
+        "context": {
+            "Yao Ming_0": "Yao Ming (; born September 12, 1980) is a retired Chinese professional basketball player who played for the Shanghai Sharks of the Chinese Basketball Association (CBA) and the Houston Rockets of the National Basketball Association (NBA). He was selected to start for the Western Conference in the NBA All-Star Game eight times, and was named to the All-NBA Team five times. At the time of his final season, he was the tallest active player in the NBA, at 2.29 m . He is the only player outside of the United States to lead the NBA in All-Star voting.",
+            "Lionel Messi_0": "Lionel Andr\u00e9s \"Leo\" Messi (] ; born 24 June 1987) is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. Often considered the best player in the world and regarded by many as the greatest of all time, Messi is the only player in history to win five FIFA Ballon d'Or awards, four of which he won consecutively, and a record-tying four European Golden Shoes. He has won 29 trophies with Barcelona, including eight La Liga titles, four UEFA Champions League titles, and five Copas del Rey. Both a prolific goalscorer and a creative playmaker, Messi holds the records for most official goals scored in La Liga (358), a La Liga season (50) and a club football season in Europe (73), a calendar year (91), as well as those for most assists made in La Liga (138) and the Copa Am\u00e9rica (11). He has scored over 600 senior career goals for club and country.",
+            "Sun Zhe_0": "Sun Zhe (born August, 1990) is a 25-year-old basketball player from China, who has earned the nickname \"Little Yao Ming\", according to a source from CCTV, China's news channel. He stands 2.20m or 7'3\" tall and weighs about 200 pounds in the year 2009. The trademarked nickname \"Little Giant\" no longer belongs with Yao Ming according to the Xinhua News Agency. According to Xinhua, \"... Sun played his first Chinese top professional league game on January 2, 2008 when the Guangdong club player had two points, five rebounds and five fouls in his 17 minutes on court.\" According to the Taiwan News, he was not able to help his team win in the East Asian Games, though people already have big expectations for him. He is one of five co-players who is more than 7 feet tall on the Chinese National basketball team, which also includes Zhang Zhaoxu, Wang Zhizhi, Wang Zhelin, and Yi Jianlian. He currently plays for the Dongguan Leopards basketball club."
+        },
+        "context_from_tfidf": [
+            "Sun Zhe_0",
+            "Yao Ming_0",
+            "Lionel Messi_0"
+        ],
+        "context_from_hyperlink": []
+    }
+]
+
+#### Reader results ####
+[
+    {
+        "q_id": "DEMO_0",
+        "question": "Who plays basketball better, Yao Ming or Messi",
+        "answer": "Yao Ming",
+        "context": [
+            "Lionel Messi_0",
+            "Yao Ming_0"
+        ]
+    }
+]
+
+#### Supporting facts ####
+[
+    {
+        "q_id": "DEMO_0",
+        "supporting facts": {
+            "Yao Ming_0": [
+                [
+                    0,
+                    "Yao Ming (; born September 12, 1980) is a retired Chinese professional basketball player who played for the Shanghai Sharks of the Chinese Basketball Association (CBA) and the Houston Rockets of the National Basketball Association (NBA)."
+                ]
+            ],
+            "Lionel Messi_0": [
+                [
+                    0,
+                    "Lionel Andr\u00e9s \"Leo\" Messi (] ; born 24 June 1987) is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team."
+                ]
+            ]
+        }
+    }
+]
