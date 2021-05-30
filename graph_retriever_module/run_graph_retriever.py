@@ -205,7 +205,7 @@ def main():
     np.random.seed(args.seed)
     torch.manual_seed(args.seed)
     if n_gpu > 0:
-        # 训练时代码中指定 CUDA_VISIBLE_DEVICES=0 nohup python demo.py >> base_log.out 2>&1 &
+        # 训练时代码中指定 CUDA_VISIBLE_DEVICES=0 nohup python QA_system.py >> base_log.out 2>&1 &
         # torch.cuda.manual_seed_all(args.seed)
         # torch.cuda.set_device(4)
         pass

@@ -10,7 +10,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="140bd985-0f9e-4a6f-b821-c478a055b5ba" name="Default Changelist" comment="" />
+    <list default="true" id="140bd985-0f9e-4a6f-b821-c478a055b5ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/maqi_bs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/maqi_bs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/example/ans1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ans2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/example/ans2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ans3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/example/ans3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/QA_system.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph_retriever_module/run_graph_retriever.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_retriever_module/run_graph_retriever.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,22 +60,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/reader_module/tools" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/eval" />
-      <recent name="$PROJECT_DIR$/data/hotpot/eval" />
-      <recent name="$PROJECT_DIR$/data/hotpot/sequential_sentence_selector_dataset/complete" />
-      <recent name="$PROJECT_DIR$/data/hotpot/graph_retriever_dataset" />
-      <recent name="$PROJECT_DIR$/graph_retriever" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reader_module/tools" />
       <recent name="$PROJECT_DIR$/data/hotpot" />
       <recent name="$PROJECT_DIR$/数据集分析" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sequential_sentence_selector/tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/eval" />
+      <recent name="$PROJECT_DIR$/data/hotpot/eval" />
+      <recent name="$PROJECT_DIR$/data/hotpot/sequential_sentence_selector_dataset/complete" />
+      <recent name="$PROJECT_DIR$/data/hotpot/graph_retriever_dataset" />
     </key>
   </component>
   <component name="RunManager" selected="Python.dis_dataset">
@@ -288,6 +299,9 @@
       <workItem from="1621041978696" duration="366000" />
       <workItem from="1621319892704" duration="429000" />
       <workItem from="1621915543131" duration="4563000" />
+      <workItem from="1621937794205" duration="258000" />
+      <workItem from="1621940633079" duration="173000" />
+      <workItem from="1622338066112" duration="705000" />
     </task>
     <task id="LOCAL-00001" summary="排除文件夹">
       <created>1621916743675</created>
@@ -312,6 +326,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="排除文件夹" />
@@ -356,15 +371,15 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="377" y="54" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1621916743481" />
-    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog" timestamp="1621937683603">
+    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog" timestamp="1621937874839">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621937683603" />
-    <state x="94" y="200" key="Github.UntrackedFilesDialog" timestamp="1621915946564">
+    <state x="739" y="438" width="314" height="334" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621937874839" />
+    <state x="94" y="200" key="Github.UntrackedFilesDialog" timestamp="1621937916733">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="94" y="200" key="Github.UntrackedFilesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621915946564" />
-    <state x="211" y="191" width="1427" height="903" key="SettingsEditor" timestamp="1620175187008">
+    <state x="94" y="200" key="Github.UntrackedFilesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1621937916733" />
+    <state x="211" y="191" width="1427" height="903" key="SettingsEditor" timestamp="1622338132142">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="211" y="191" width="1474" height="903" key="SettingsEditor/-768.-1415.2560.1415/0.0.1792.1120@0.0.1792.1120" timestamp="1620097284274" />
@@ -373,7 +388,7 @@
     <state x="211" y="191" width="1427" height="903" key="SettingsEditor/-768.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1620175187008" />
     <state x="-467" y="-1194" key="SettingsEditor/-768.-1440.2560.1440/0.25.1792.989@-768.-1440.2560.1440" timestamp="1617329397045" />
     <state x="664" y="-1172" key="SettingsEditor/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1616402452387" />
-    <state x="211" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1617170526925" />
+    <state x="211" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1622338132142" />
     <state x="396" y="234" key="Vcs.Push.Dialog.v2" timestamp="1621922116853">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

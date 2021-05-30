@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/sequential_sentence_selector_module" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/retriever" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.6.13 (sftp://maqi@202.199.6.77:22/data0/maqi/.conda/envs/maqi_bs/bin/python3.6)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.6.13 (sftp://maqi@219.216.64.206:22/data0/maqi/.conda/envs/maqi_bs/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
